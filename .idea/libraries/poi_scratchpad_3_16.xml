@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="poi-scratchpad-3.16">
+    <CLASSES>
+      <root url="jar://D:/НОУТ/программы/JAVA/poi-bin-3.16/poi-3.16/poi-scratchpad-3.16.jar!/" />
+      <root url="jar://D:/НОУТ/программы/JAVA/poi-bin-3.16/poi-3.16/poi-ooxml-schemas-3.16.jar!/" />
+      <root url="jar://D:/НОУТ/программы/JAVA/poi-bin-3.16/poi-3.16/poi-ooxml-3.16.jar!/" />
+      <root url="jar://D:/НОУТ/программы/JAVA/poi-bin-3.16/poi-3.16/poi-3.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
